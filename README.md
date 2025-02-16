@@ -5,6 +5,7 @@
 
 * 🌍  I'm from Argentina
 * 🚀  I love to work with open sources proyects
-* 🎓  I'm currently studying an AWS Cloud Practitioner Cert.
-* 🌱  I'm on track with learning more about DevOps, Security, and Infrastructure.
-* 📫  Visit my blog blog.matiasmercado.ar 
+* 🎓  I'm a Network Technician and I'm currently finishing my Licence on System Administration and Networks
+* 🔧 I'm a System Administrator and Linux nerd
+* 🌱  I'm on track with Security Ops
+* 📫  Visit my web www.matiasmercado.ar 
