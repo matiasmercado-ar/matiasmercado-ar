@@ -5,6 +5,5 @@
 
 * 🌍 I'm from Argentina.
 * 🚀 I love working on open-source projects.
-* 🎓 I'm a Network Technician and currently finishing my degree in Networking and Administration.
+* 🎓 I'm a System and Network Administrator
 * 🌱 I'm focused on Security Operations.
-* 📫 Visit my website: www.matiasmercado.ar.
