@@ -3,6 +3,6 @@
 
 ## I little bit about me
 
-* 🌍 I'm from Argentina.
-* 🚀 I love working on open-source projects.
-* 🎓 I'm a System and Network Administrator
+* 🎓 System and Network Administrator (ITU 🇦🇷 and UIT 🇫🇷)
+* 🚀 Working for open-source projects.
+* 🐧 Linux nerd
