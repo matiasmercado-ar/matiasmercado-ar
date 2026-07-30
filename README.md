@@ -3,6 +3,6 @@
 
 ## I little bit about me
 
-* 🎓 System and Network Administrator (ITU 🇦🇷 and UIT 🇫🇷)
+* 🎓 System and Network Administrator (ITU 🇦🇷 and IUT 🇫🇷)
 * 🚀 Working for open-source projects.
 * 🐧 Linux nerd
